@@ -17,5 +17,6 @@ Examples:
 
 
 
-
+1. Copy on gatewway
+2. 
 simply run from CLI: dos2unix <script_name>
