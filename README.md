@@ -2,7 +2,7 @@
 
 Delete a specific connections entries in Checkpoint Gateway.
 
-this script was edited for maestro firewall structure. if you have single running devices, you need to change <b>"g_fw" to "fw"
+this script was edited for maestro firewall structure. if you have standalone running devices, you need to change <b>"g_fw" to "fw"
 
 Examples:
 
